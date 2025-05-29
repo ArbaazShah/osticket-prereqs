@@ -28,92 +28,110 @@
  - Windows 10</b> (21H2)
  
  <h2>Installation Steps</h2>
-![79](https://github.com/user-attachments/assets/91c59eb8-5339-4921-a084-889f06370ffb)
-![78](https://github.com/user-attachments/assets/e62c23b4-dc67-4d4d-b657-4424f9a61cbe)
-![77](https://github.com/user-attachments/assets/019e8d0a-7f87-4ce0-a0eb-64f5ef213bd9)
-![76](https://github.com/user-attachments/assets/c70b354c-92c8-42bf-a54d-129bcd311903)
-![75](https://github.com/user-attachments/assets/b75d16d5-cee5-4f2d-854f-34742cd1088d)
-![74](https://github.com/user-attachments/assets/0fa69738-e39c-4acf-b6e0-5c4fed50d605)
-![73](https://github.com/user-attachments/assets/aeb4515e-42bd-478b-bfca-b944158ccc17)
-![72](https://github.com/user-attachments/assets/1c672d97-a2b7-411e-aca0-a28f1c8436b7)
-![71](https://github.com/user-attachments/assets/2e0706df-fc25-4c14-9bdf-209168f41885)
-![70](https://github.com/user-attachments/assets/060e2928-c3c5-49d4-a09d-3af5a7f9128c)
-![69](https://github.com/user-attachments/assets/69bb6883-0182-420c-a1c2-13aa96a930dd)
-![68](https://github.com/user-attachments/assets/c703abe4-6c10-47a6-bf6e-7e0c68d7381f)
-![67](https://github.com/user-attachments/assets/3bfceec3-2b8c-4395-a70e-de460e38480a)
-![66](https://github.com/user-attachments/assets/2842645b-3b45-4729-9ad6-f15eb44bd86a)
-![65](https://github.com/user-attachments/assets/c0858f82-9a7c-493d-937e-7489879a6509)
-![64](https://github.com/user-attachments/assets/b4b9e28a-1420-4324-adf3-386b9765fb76)
-![63](https://github.com/user-attachments/assets/e9bbbb27-f723-4a39-8d19-9c0fe2b4c0d5)
-![62](https://github.com/user-attachments/assets/75e5ae50-156c-4e52-825a-d1aaf7341d4c)
-![61](https://github.com/user-attachments/assets/a61092d5-289f-4224-9977-e3bee1617a44)
-![60](https://github.com/user-attachments/assets/7c3aa33c-1d9c-4b8f-990f-69a46eefc4f3)
-![59](https://github.com/user-attachments/assets/33f20c9a-ec4a-451a-85b8-3a783b9a86c2)
-![58](https://github.com/user-attachments/assets/ad020a7e-ffab-478f-9f62-6fc22f228bb8)
-![57](https://github.com/user-attachments/assets/fb778778-3c82-45d2-8140-22dfe324fdc1)
-![56](https://github.com/user-attachments/assets/97d2d828-fa75-4592-984f-0e9bfa070758)
-![55](https://github.com/user-attachments/assets/9c735c38-1e65-46a9-a880-c31f7914519f)
-![54](https://github.com/user-attachments/assets/8488fc8c-136b-440f-9021-dd1e11708e8d)
-![53](https://github.com/user-attachments/assets/4571fa9d-3911-4a91-9880-5b82a98c10bc)
-![52](https://github.com/user-attachments/assets/f73817b3-df32-467a-be05-059af6837e5c)
-![51](https://github.com/user-attachments/assets/e3b8497a-728e-45f3-ab38-2a0485c2db8e)
-![50](https://github.com/user-attachments/assets/59b37185-83de-4f8b-ad0d-f76d0d2c52fa)
-![49](https://github.com/user-attachments/assets/17c364f1-ffa3-4625-8b7c-6fef860f7587)
-![48](https://github.com/user-attachments/assets/4672a612-9591-4b0e-9e8a-c5f75b75f133)
-![47](https://github.com/user-attachments/assets/3cc88bcd-9a29-4359-87d3-160452d4b0df)
-![46](https://github.com/user-attachments/assets/fd03017f-b784-4275-b33e-4391920eaa47)
-![45](https://github.com/user-attachments/assets/70d67c7e-f875-4417-9de9-46b7c54e74eb)
-![44](https://github.com/user-attachments/assets/7781bb55-1d8f-4c6d-86dc-36e9b06eae7c)
-![43](https://github.com/user-attachments/assets/8faf9ce3-7a76-4e19-a838-83387beafaf1)
-![42](https://github.com/user-attachments/assets/5d40b49d-4a7e-490e-ac7f-e1b0b66339d9)
-![41](https://github.com/user-attachments/assets/752f787f-d0ea-4e62-b256-6d265db43ea6)
-![40](https://github.com/user-attachments/assets/2b7f58fa-f378-4f75-8648-aca3027dd4f8)
-![39](https://github.com/user-attachments/assets/097308b3-21f7-42ac-a506-9ac639bfdc02)
-![38](https://github.com/user-attachments/assets/e000cff7-1e3c-44ee-9485-308da156fc43)
-![37](https://github.com/user-attachments/assets/a41e617b-d1d4-4ca9-8084-abd5b755edd6)
-![36](https://github.com/user-attachments/assets/f5e55a8e-4b08-4b44-bc88-ef0af1d62a62)
-![35](https://github.com/user-attachments/assets/3b0abd25-04c1-4b2c-b4fc-31a0c6788f89)
-![33](https://github.com/user-attachments/assets/48292584-8625-40a8-846a-c86820d6f72a)
-![32](https://github.com/user-attachments/assets/c5ed4797-d573-406d-b09b-0b52431412ae)
-![31](https://github.com/user-attachments/assets/9ba8f9dc-df5c-4e41-9d95-84035988255e)
-![30](https://github.com/user-attachments/assets/c935a622-dedd-4d0e-b044-1858d9b06c51)
-![29](https://github.com/user-attachments/assets/e94d7929-6070-4b04-8857-ca9990df361e)
-![28](https://github.com/user-attachments/assets/dc86ec78-2442-4ffb-8344-f25ed1f8962b)
-![27](https://github.com/user-attachments/assets/f4e59318-12a3-47e5-acfc-5608a3f62001)
-![26](https://github.com/user-attachments/assets/d5b026ed-1f1c-4160-9481-a5aa94bbb637)
-![25](https://github.com/user-attachments/assets/a0661f2f-a518-4ee3-a079-f77f1c430a5f)
-![24](https://github.com/user-attachments/assets/797752fd-a87b-4e2f-af6c-917db4e300a7)
-![23](https://github.com/user-attachments/assets/a1a0a30d-c2bc-4f12-9a05-8435cee832e1)
-![22](https://github.com/user-attachments/assets/7b823c43-9c4c-4af8-a817-cbdeca479407)
-![21](https://github.com/user-attachments/assets/bedd54b4-73f0-44f3-b742-b4455c112e91)
-![20](https://github.com/user-attachments/assets/f7484e5a-964b-41c2-8908-76cb6a2a340b)
-![19](https://github.com/user-attachments/assets/4d5a7bfa-4bb0-4494-b144-7a1c5839241f)
-![18](https://github.com/user-attachments/assets/c44d1723-5b8d-4224-9478-84719a384d74)
 
-
-
-
- <img src="https://github.com/user-attachments/assets/20733a16-aa5f-4e86-8146-fb2328f70781" height="80%" width="80%" alt="Disk Sanitization Steps"/>
- <img src="https://github.com/user-attachments/assets/dc77cdbe-5073-451f-aecc-19bb32152f7f" height="80%" width="80%"/>
- </p>
- <p>
- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
- </p>
- <br />
+ ## Download Zip File containing dependencies and OsTicket
  
- <p>
- <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
- Step 1
- </p>
- <p>
- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
- </p>
- <br />
- 
- <p>
- <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
- </p>
- <p>
- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
- </p>
- <br />
+<p align="center">
+  <img width="45%" alt="Step Screenshot 1" src="https://github.com/user-attachments/assets/0c976f2b-a669-4218-beb8-adf77bd54d0d" />
+  <img width="45%" alt="Step Screenshot 2" src="https://github.com/user-attachments/assets/87882a8d-0af5-42a6-91e8-a3a538016fd2" />
+</p>
+
+## Enabling IIS (Internet Information Services) and CGI (Common Gateway Interface) 
+
+<p align ="center">
+<img width="45%" alt="image" src="https://github.com/user-attachments/assets/919242b7-74c9-438d-b9f6-b1ba5ac9f856" />
+<img width="45%" alt="image" src="https://github.com/user-attachments/assets/bc3ca9a4-b203-4b62-95c9-3d6864432e88" />
+</p>
+
+## Install dependencies 
+
+<p align ="center">
+<img width="30%" alt="image" src="https://github.com/user-attachments/assets/4eb30dfa-f1d5-4a2d-9eaf-2cb8a8c2e666" />
+<img width="30%" alt="image" src="https://github.com/user-attachments/assets/3684dcf3-b233-4206-a08e-0af4bea0cc2d" />
+<img width="30%" alt="image" src="https://github.com/user-attachments/assets/04c8baa7-f149-4c0e-b65d-f35e63f533b8" />
+
+
+## Create PHP Folder 
+
+<img width="362" alt="image" src="https://github.com/user-attachments/assets/1820958c-afa7-44fa-b422-173847b1525a" />
+<img width="418" alt="image" src="https://github.com/user-attachments/assets/afbd43be-b2a8-45d5-a6f9-10a7988a7769" />
+
+## Extract PHP to newly created folder 
+
+<img width="528" alt="image" src="https://github.com/user-attachments/assets/059ea2a4-aa48-4e75-b579-c736c6ffe1fb" />
+
+
+## Install mysql 
+<img width="245" alt="image" src="https://github.com/user-attachments/assets/54700fbf-8adb-4293-82ff-3282c8469d09" />
+<img width="248" alt="image" src="https://github.com/user-attachments/assets/24d68141-479e-42e1-af47-bc78c151170e" />
+<img width="248" alt="image" src="https://github.com/user-attachments/assets/254ac1a9-fc42-4939-94f0-96be63cf7494" />
+
+<img width="248" alt="image" src="https://github.com/user-attachments/assets/c5f3d7a5-b955-44dd-b42d-fffa48b22ddd" />
+<img width="248" alt="image" src="https://github.com/user-attachments/assets/3d1c3519-cb32-41da-b909-38b264731046" />
+
+<img width="245" alt="image" src="https://github.com/user-attachments/assets/fd92f25b-a5d0-4a3c-b742-e7a5fa9127c4" />
+
+
+
+
+## Start IIS (Internet Information Services) 
+
+
+<img width="414" alt="image" src="https://github.com/user-attachments/assets/f6c969e3-91df-4495-a6e8-5538b3d1dedf" />
+<img width="581" alt="image" src="https://github.com/user-attachments/assets/ce9add9d-58a6-49da-9180-1695936e6ea8" />
+<img width="434" alt="image" src="https://github.com/user-attachments/assets/242ac1b9-58e3-4af5-bdb6-4c4200113a37" />
+
+
+## Register a new PHP folder
+<img width="755" alt="image" src="https://github.com/user-attachments/assets/ecd878b1-f9e4-4253-8421-b11e2386d507" />
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/19fe7f1a-ea13-4e68-bb03-ef506c7ecf80" />
+<img width="226" alt="image" src="https://github.com/user-attachments/assets/1ad960b3-8900-4705-9646-21059b1aa90e" />
+
+
+## Install OsTicket
+<img width="369" alt="image" src="https://github.com/user-attachments/assets/7e82f274-7850-4a64-9df0-415308b0669f" />
+<img width="731" alt="image" src="https://github.com/user-attachments/assets/887b2b34-c94c-49e1-8116-b47e8e8eba53" />
+<img width="365" alt="image" src="https://github.com/user-attachments/assets/ebe81c50-ff13-4334-9166-d81530f24488" />
+<img width="711" alt="image" src="https://github.com/user-attachments/assets/958ee658-36d0-44d7-ba9c-44f03070ff8b" />
+<img width="710" alt="image" src="https://github.com/user-attachments/assets/d4c50e02-9bd8-4c4e-8ce1-6a100e905ea7" />
+<img width="464" alt="image" src="https://github.com/user-attachments/assets/65464b2e-f58b-4b04-982f-2bbd0d7c8da6" />
+<img width="314" alt="image" src="https://github.com/user-attachments/assets/c8301bdf-a58e-4672-8ea1-5f82fccce3dd" />
+
+<img width="379" alt="image" src="https://github.com/user-attachments/assets/32d1b360-9020-4fbd-b575-b78b4df7d7ef" />
+<img width="328" alt="image" src="https://github.com/user-attachments/assets/667d9fd0-2092-4892-b186-ac5616d05dff" />
+<img width="298" alt="image" src="https://github.com/user-attachments/assets/e7eb4877-5a26-451d-a144-4cb0da91e7ba" />
+<img width="340" alt="image" src="https://github.com/user-attachments/assets/1c50cf63-9f26-4193-88c8-c0f67aa20259" />
+<img width="463" alt="image" src="https://github.com/user-attachments/assets/ce36f14a-7894-4d9f-9978-057e2295260f" />
+<img width="418" alt="image" src="https://github.com/user-attachments/assets/3b631b44-65ed-40d6-9615-fcd5c576696f" />
+<img width="392" alt="image" src="https://github.com/user-attachments/assets/8400f5b1-94b4-4c0f-b41e-a2ead756560b" />
+
+## Permission changes 
+<img width="179" alt="image" src="https://github.com/user-attachments/assets/e292de39-e548-4e2c-9f82-195d7248634d" />
+<img width="383" alt="image" src="https://github.com/user-attachments/assets/33363cae-87b3-45e4-a31f-0a76c466c3f6" />
+<img width="260" alt="image" src="https://github.com/user-attachments/assets/346f75fc-164f-4ea0-9237-2a97a193714b" />
+<img width="383" alt="image" src="https://github.com/user-attachments/assets/6923e4e1-e486-4b76-8d9c-b5cebf1cd815" />
+<img width="458" alt="image" src="https://github.com/user-attachments/assets/10a28331-b324-4bc2-b310-4f191011e166" />
+<img width="455" alt="image" src="https://github.com/user-attachments/assets/cbbe762e-4585-4b8a-87c9-bc7cae2d44f1" />
+<img width="382" alt="image" src="https://github.com/user-attachments/assets/f0496459-a6b9-4704-a1f6-4a975424e25a" />
+<img width="179" alt="image" src="https://github.com/user-attachments/assets/2800a7df-bbef-4f58-91dd-044780207115" />
+
+## Configuring system settings 
+
+<img width="437" alt="image" src="https://github.com/user-attachments/assets/e4cb7369-d770-4d8d-b81b-6aaa37fdf72d" />
+<img width="422" alt="image" src="https://github.com/user-attachments/assets/7d1e7003-e43e-4ac0-bde3-c2f5cd923819" />
+<img width="413" alt="image" src="https://github.com/user-attachments/assets/d572f670-e954-4669-b8e5-cf1872d73443" />
+
+## Setting up and configuring SQL for OsTicket
+
+<img width="405" alt="image" src="https://github.com/user-attachments/assets/7c2a32a6-403b-48c0-bd08-8f0cc2c11304" />
+<img width="405" alt="image" src="https://github.com/user-attachments/assets/fa8f175d-0687-4c2b-ae5c-b00d22c32e74" />
+<img width="341" alt="image" src="https://github.com/user-attachments/assets/c27a13fb-6b48-47fa-8a65-37d17bf5ac01" />
+<img width="467" alt="image" src="https://github.com/user-attachments/assets/dbf577c6-538b-4132-8c2f-911d3b5ee6c6" />
+<img width="466" alt="image" src="https://github.com/user-attachments/assets/ccda658e-19c0-4cc8-9267-6c7c4e4bfc2b" />
+<img width="412" alt="image" src="https://github.com/user-attachments/assets/08f7a3b9-24a4-47e7-b3f9-b3d1695e9763" />
+<img width="413" alt="image" src="https://github.com/user-attachments/assets/c338bcbb-9f41-4148-b4c8-208a30e9ed5c" />
+<img width="446" alt="image" src="https://github.com/user-attachments/assets/f18d623f-9ac3-4fab-8266-7448cb0d227c" />
+<img width="452" alt="image" src="https://github.com/user-attachments/assets/24f0e787-571e-4f8f-989f-b1ab71d8d0ea" />
+
+
+
