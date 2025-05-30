@@ -6,7 +6,7 @@
 
 
  <h2>Description</h2>
- This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system, osTicket.<br />
 
 
  <h2>Prerequistes</h2>
@@ -21,7 +21,6 @@
  - Windows Remote Desktop
  - osTicket
  - MySQL
- - Remote Desktop
  - Internet Information Services (IIS)
  
  <h2>Operating Systems Used</h2>
@@ -35,7 +34,8 @@
   <img width="45%" alt="Step Screenshot 1" src="https://github.com/user-attachments/assets/0c976f2b-a669-4218-beb8-adf77bd54d0d" />
   <img width="45%" alt="Step Screenshot 2" src="https://github.com/user-attachments/assets/87882a8d-0af5-42a6-91e8-a3a538016fd2" />
 </p>
-To start, we will need to download the zip file containing OsTicket and its dependencies.
+
+Download the zip file from the link to get dependencies and osTicket
 
 
 ## Enabling IIS (Internet Information Services) and CGI (Common Gateway Interface) 
@@ -45,12 +45,35 @@ To start, we will need to download the zip file containing OsTicket and its depe
 <img width="45%" alt="image" src="https://github.com/user-attachments/assets/bc3ca9a4-b203-4b62-95c9-3d6864432e88" />
 </p>
 
+Enable IIS(Internet Information Services), which allows our Windows computer to act as a server, handling web requests and other web-related tasks. To do that, we will search for Apps & features and then turn on 
+- Web Management Tools
+- World Wide Web Services
+- Application Development Features
+- As well as CGI to enable the service to run on our loopback address
+
+
 ## Install dependencies 
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/4eb30dfa-f1d5-4a2d-9eaf-2cb8a8c2e666" alt="Step 1" width="250" />
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/3684dcf3-b233-4206-a08e-0af4bea0cc2d" alt="Step 2" width="250" />
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/04c8baa7-f149-4c0e-b65d-f35e63f533b8" alt="Step 3" widt="250" />
+    </td>
+  </tr>
+</table>
+
+
+
 
 <p align ="center">
-<img width="30%" alt="image" src="https://github.com/user-attachments/assets/4eb30dfa-f1d5-4a2d-9eaf-2cb8a8c2e666" />
-<img width="30%" alt="image" src="https://github.com/user-attachments/assets/3684dcf3-b233-4206-a08e-0af4bea0cc2d" />
-<img width="30%" alt="image" src="https://github.com/user-attachments/assets/04c8baa7-f149-4c0e-b65d-f35e63f533b8" />
+<img width="49%" alt="image" src="" />
+<img width="49%" alt="image" src="h" />
+<img width="49%" alt="image" src="" />
 
 
 ## Create PHP Folder 
