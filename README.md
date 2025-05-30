@@ -59,14 +59,7 @@ Enable IIS(Internet Information Services), which allows our Windows computer to 
    
 <img src="https://github.com/user-attachments/assets/04c8baa7-f149-4c0e-b65d-f35e63f533b8" alt="Step 3" widt="250" />
    
-
-
-
-
-<p align ="center">
-<img width="49%" alt="image" src="" />
-<img width="49%" alt="image" src="h" />
-<img width="49%" alt="image" src="" />
+Install PHP Manager For IIS, VC_redist and rewrite_amd64.
 
 
 ## Create PHP Folder 
@@ -74,9 +67,13 @@ Enable IIS(Internet Information Services), which allows our Windows computer to 
 <img width="362" alt="image" src="https://github.com/user-attachments/assets/1820958c-afa7-44fa-b422-173847b1525a" />
 <img width="418" alt="image" src="https://github.com/user-attachments/assets/afbd43be-b2a8-45d5-a6f9-10a7988a7769" />
 
-## Extract PHP to newly created folder 
+Make a new folder on the C drive call it PHP.
+
+## Extract PHP to the newly created folder 
 
 <img width="528" alt="image" src="https://github.com/user-attachments/assets/059ea2a4-aa48-4e75-b579-c736c6ffe1fb" />
+
+Extract the contents of the php zip file to the newly created PHP folder.
 
 
 ## Install mysql 
@@ -89,6 +86,7 @@ Enable IIS(Internet Information Services), which allows our Windows computer to 
 
 <img width="245" alt="image" src="https://github.com/user-attachments/assets/fd92f25b-a5d0-4a3c-b742-e7a5fa9127c4" />
 
+Install MySQL and follow these steps: Typical setup type > Standard Configuration > Install As Windows Service > Modify Security Settings(**Take special note of the root password you choose**) 
 
 
 
@@ -97,20 +95,28 @@ Enable IIS(Internet Information Services), which allows our Windows computer to 
 
 <img width="414" alt="image" src="https://github.com/user-attachments/assets/f6c969e3-91df-4495-a6e8-5538b3d1dedf" />
 <img width="581" alt="image" src="https://github.com/user-attachments/assets/ce9add9d-58a6-49da-9180-1695936e6ea8" />
-<img width="434" alt="image" src="https://github.com/user-attachments/assets/242ac1b9-58e3-4af5-bdb6-4c4200113a37" />
+Use the search bar to open IIS and open PHP manager.
 
 
 ## Register a new PHP folder
+Click Register New PHP version. Navigate to the PHP folder made in the previous steps. Open the folder and open php-cgi.
+<img width="434" alt="image" src="https://github.com/user-attachments/assets/242ac1b9-58e3-4af5-bdb6-4c4200113a37" />
+
 <img width="755" alt="image" src="https://github.com/user-attachments/assets/ecd878b1-f9e4-4253-8421-b11e2386d507" />
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/19fe7f1a-ea13-4e68-bb03-ef506c7ecf80" />
 <img width="226" alt="image" src="https://github.com/user-attachments/assets/1ad960b3-8900-4705-9646-21059b1aa90e" />
-
+Refresh the server.
 
 ## Install OsTicket
 <img width="369" alt="image" src="https://github.com/user-attachments/assets/7e82f274-7850-4a64-9df0-415308b0669f" />
+In the installation folder, open the osTicket folder and copy the upload folder to this destination: C:\inetpub\wwwroot.
+
 <img width="731" alt="image" src="https://github.com/user-attachments/assets/887b2b34-c94c-49e1-8116-b47e8e8eba53" />
+Rename the folder to exactly **osTicket** 
 <img width="365" alt="image" src="https://github.com/user-attachments/assets/ebe81c50-ff13-4334-9166-d81530f24488" />
+
 <img width="711" alt="image" src="https://github.com/user-attachments/assets/958ee658-36d0-44d7-ba9c-44f03070ff8b" />
+Inn IIS manager open restart the server and navigate to the Default Web Site and browse *80
 <img width="710" alt="image" src="https://github.com/user-attachments/assets/d4c50e02-9bd8-4c4e-8ce1-6a100e905ea7" />
 <img width="464" alt="image" src="https://github.com/user-attachments/assets/65464b2e-f58b-4b04-982f-2bbd0d7c8da6" />
 <img width="314" alt="image" src="https://github.com/user-attachments/assets/c8301bdf-a58e-4672-8ea1-5f82fccce3dd" />
