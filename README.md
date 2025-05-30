@@ -35,6 +35,8 @@
   <img width="45%" alt="Step Screenshot 1" src="https://github.com/user-attachments/assets/0c976f2b-a669-4218-beb8-adf77bd54d0d" />
   <img width="45%" alt="Step Screenshot 2" src="https://github.com/user-attachments/assets/87882a8d-0af5-42a6-91e8-a3a538016fd2" />
 </p>
+To start, we will need to download the zip file containing OsTicket and its dependencies.
+
 
 ## Enabling IIS (Internet Information Services) and CGI (Common Gateway Interface) 
 
