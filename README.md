@@ -53,19 +53,12 @@ Enable IIS(Internet Information Services), which allows our Windows computer to 
 
 
 ## Install dependencies 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/4eb30dfa-f1d5-4a2d-9eaf-2cb8a8c2e666" alt="Step 1" width="250" />
-    </td>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/3684dcf3-b233-4206-a08e-0af4bea0cc2d" alt="Step 2" width="250" />
-    </td>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/04c8baa7-f149-4c0e-b65d-f35e63f533b8" alt="Step 3" widt="250" />
-    </td>
-  </tr>
-</table>
+<img src="https://github.com/user-attachments/assets/4eb30dfa-f1d5-4a2d-9eaf-2cb8a8c2e666" alt="Step 1" width="250" />
+  
+<img src="https://github.com/user-attachments/assets/3684dcf3-b233-4206-a08e-0af4bea0cc2d" alt="Step 2" width="250" />
+   
+<img src="https://github.com/user-attachments/assets/04c8baa7-f149-4c0e-b65d-f35e63f533b8" alt="Step 3" widt="250" />
+   
 
 
 
