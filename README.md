@@ -117,11 +117,15 @@ Refresh the server.
 In the installation folder, open the osTicket folder and copy the upload folder to this destination: C:\inetpub\wwwroot.
 
 <img width="731" alt="image" src="https://github.com/user-attachments/assets/887b2b34-c94c-49e1-8116-b47e8e8eba53" />
+
 Rename the folder to exactly **osTicket** 
+
 <img width="365" alt="image" src="https://github.com/user-attachments/assets/ebe81c50-ff13-4334-9166-d81530f24488" />
 
 <img width="711" alt="image" src="https://github.com/user-attachments/assets/958ee658-36d0-44d7-ba9c-44f03070ff8b" />
+
 Inn IIS manager open restart the server and navigate to the Default Web Site and browse *80
+
 <img width="710" alt="image" src="https://github.com/user-attachments/assets/d4c50e02-9bd8-4c4e-8ce1-6a100e905ea7" />
 <img width="464" alt="image" src="https://github.com/user-attachments/assets/65464b2e-f58b-4b04-982f-2bbd0d7c8da6" />
 <img width="314" alt="image" src="https://github.com/user-attachments/assets/c8301bdf-a58e-4672-8ea1-5f82fccce3dd" />
