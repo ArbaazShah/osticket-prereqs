@@ -95,20 +95,25 @@ Install MySQL and follow these steps: Typical setup type > Standard Configuratio
 
 <img width="414" alt="image" src="https://github.com/user-attachments/assets/f6c969e3-91df-4495-a6e8-5538b3d1dedf" />
 <img width="581" alt="image" src="https://github.com/user-attachments/assets/ce9add9d-58a6-49da-9180-1695936e6ea8" />
+
 Use the search bar to open IIS and open PHP manager.
 
 
 ## Register a new PHP folder
-Click Register New PHP version. Navigate to the PHP folder made in the previous steps. Open the folder and open php-cgi.
+
 <img width="434" alt="image" src="https://github.com/user-attachments/assets/242ac1b9-58e3-4af5-bdb6-4c4200113a37" />
+Click Register New PHP version. Navigate to the PHP folder made in the previous steps. Open the folder and open php-cgi.
 
 <img width="755" alt="image" src="https://github.com/user-attachments/assets/ecd878b1-f9e4-4253-8421-b11e2386d507" />
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/19fe7f1a-ea13-4e68-bb03-ef506c7ecf80" />
 <img width="226" alt="image" src="https://github.com/user-attachments/assets/1ad960b3-8900-4705-9646-21059b1aa90e" />
+
 Refresh the server.
+
 
 ## Install OsTicket
 <img width="369" alt="image" src="https://github.com/user-attachments/assets/7e82f274-7850-4a64-9df0-415308b0669f" />
+
 In the installation folder, open the osTicket folder and copy the upload folder to this destination: C:\inetpub\wwwroot.
 
 <img width="731" alt="image" src="https://github.com/user-attachments/assets/887b2b34-c94c-49e1-8116-b47e8e8eba53" />
